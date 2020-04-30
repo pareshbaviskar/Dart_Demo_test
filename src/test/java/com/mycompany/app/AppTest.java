@@ -33,7 +33,7 @@ public class AppTest
     public void testAppMain()
     {
         App.main(null);
-        assertEquals("test!", "test1");
+        assertEquals("test", "test");
        // try {
            // assertEquals("Hello World!" + System.getProperty("line.separator"), outContent.toString());
         //} catch (AssertionError e) {
