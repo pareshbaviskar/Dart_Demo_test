@@ -34,6 +34,7 @@ public class AppTest
     {
         App.main(null);
         assertEquals("test", "test");
+
        // try {
            // assertEquals("Hello World!" + System.getProperty("line.separator"), outContent.toString());
         //} catch (AssertionError e) {
